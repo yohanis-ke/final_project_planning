@@ -1,0 +1,28 @@
+Government office services
+As a user i can search the office hour
+As a user i can search the office by name
+                                    location
+                                    services
+                                    user-group
+                                    phone #
+As a user i can get how do get there
+As a user i can get info what do i need to have to get the services
+As a user i can get info how long it takes to finish all services
+As a user i can get office address/ phone/email/website
+As a user i can contact with someone to get more support/info with call/chat
+As a user i can get notification from the office i agree to receive notification
+
+As an admin i can update info on the app
+
+
+Diary
+As a user i can add entry anytime
+As a user i can edit entry anytime
+As a user i can update entry anytime
+As a user i can delete entry anytime
+As a user i can add day,date, year of every entry
+As a user i can add descriptive header/title for every entry
+As a user i can have profile
+As a user i can add my feeling in it's own space for every entry
+As a user i need to have a picture that can express the feeling based on the entry
+As a user i need to have advice every morning based on the cumulative feeling or the most urgent dominant feeling
